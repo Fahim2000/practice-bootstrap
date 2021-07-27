@@ -1,0 +1,53 @@
+
+
+  .custom-btn{
+        height: 60px;
+        width: 170px;
+    }
+
+    .casual{
+         height: 60px;
+        width: 170px;
+    }
+
+    @media only screen and (max-width: 480px){
+    .header-img{
+        height: 285px;
+        width: 285px;
+    }
+
+   .custom-btn{
+        height: 30px;
+        width: 144px;
+    }
+
+    .casual{
+        height: 20px;
+        width: 112px;
+    }
+
+    .cas{
+        font-size: 12px;
+    }
+  
+    .icons{
+        height: 65px;
+        width: 65px;
+    }
+
+}
+
+.f-card{
+    margin-top: 187px;
+}
+
+.ca{
+    margin-bottom: 74px;
+}
+
+.bg-round{
+    border-radius: 27px;
+}
+.card-round{
+    border-radius: 27px;
+}
